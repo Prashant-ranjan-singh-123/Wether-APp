@@ -21,7 +21,7 @@ API Integration: Utilized weather data from reliable sources to provide accurate
 **Password:** Contact Me.
 
 ## 📹 Video Of Application
-[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQGc1DsbIsaqYg/mp4-720p-30fp-crf28/0/1662488179879?e=1663095600&v=beta&t=Ez13quaFK3oy4Dh1mWbh8kCS_y_hAgE-i_TH_dHyVCc)
+[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/vid/D4D05AQELV2hAErQBGg/mp4-640p-30fp-crf28/0/1686052218840?e=2147483647&v=beta&t=LUQU3Ntj3-0-xxzwTyVy35SntrhYiTlOPAPWz9r717c)
 
 
 ## 🙋 Support
