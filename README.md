@@ -12,14 +12,6 @@ Dart: A modern and efficient programming language used for developing Flutter ap
 API Integration: Utilized weather data from reliable sources to provide accurate weather information.
 📚 The process of building this application was a tremendous learning experience. From designing the UI to integrating APIs, I embraced the challenge and honed my skills in Flutter development. Special thanks to the Flutter community for their invaluable support and resources along the way. 🙌
 
-# Images 🖼️
-
-### Splash Screen 
-![](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Wether-APp/main/Img1.jpeg)
-
-### Display Screen 
-![](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Wether-APp/main/Img2.jpeg)
-
 
 ## Project Source Code 🧿
 ![](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Modern-Calculator/main/Screen%20Shot/Source%20Code.jpg)
